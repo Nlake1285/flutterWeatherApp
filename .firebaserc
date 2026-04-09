@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "weather-app-3951b",
+    "staging": "weather-app-3951b"
+  },
+  "targets": {},
+  "etags": {}
+}
